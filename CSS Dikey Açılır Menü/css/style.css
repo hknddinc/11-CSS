@@ -1,0 +1,37 @@
+#menu {
+	width:200px;
+	height:auto;
+}
+#menu ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+#menu li a{
+	text-decoration:none;
+	text-align:center;
+	background-color:#7396FF;
+	display:block;
+	color:white;
+	font-family:Arial;
+	line-height:4;
+	font-weight:bold;
+}
+#menu  li ul{
+	display:none;
+}
+#menu li:hover ul{
+	display:block;
+	left:200px;
+	background-color:white;
+	position:absolute;
+	top:0;
+	width:200px;
+}
+#menu li{
+	position:relative;
+}
+#menu li a:hover{
+	background-color:#FFDC73;
+	color:white;
+}

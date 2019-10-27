@@ -1,0 +1,61 @@
+.navbar-light{
+	background-color:#FFC926!important;
+}
+.nav-link{
+	color:white!important;
+	
+	
+}
+.nav-link:hover{
+	background-color:white!important;
+	border-radius:5px;
+	
+}
+.nav-link:hover{
+	color:#FFC926!important;
+	
+	
+}
+.navbar{
+	border-bottom: 4px solid grey;
+	
+	
+}
+.nav-item{
+	padding-top:4px;
+	
+	
+}
+.dropdown-menu{
+	
+	background-color:#FFC926!important;
+}
+.dropdown-item{
+	color:white!important;
+	
+	
+	
+}
+.dropdown-item:hover{
+	color:#FFC926!important;
+	
+	
+	
+}
+.progress-bar-animated{
+	background-color:#FFC926!important;
+	
+}
+.btn{
+	background-color:#FFC926!important;
+	
+	
+}
+.btn :hover{
+	border:1px solid #FFC926;
+	
+	
+}
+.dropdown-menu{
+	padding: 0;
+}

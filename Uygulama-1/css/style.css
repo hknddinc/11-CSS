@@ -1,0 +1,88 @@
+body
+{
+background:#0076f1 url('../images/bg.png') repeat-x top center;
+font-family:Trebuchet Ms;
+}
+a{
+	text-decoration:none;
+	color:#36f;	
+}
+#container{
+	height:960px;
+	width:640px;
+	background:white;
+	padding:20px;
+	margin:100px auto 100px auto;
+	}
+	h1{
+		color:#3cc;
+		font-size:24px;
+		border-bottom:solid 1px #3cc;
+		
+	}
+		h2{
+		font-size:18px;	
+	}
+	p {
+		text-align:justify;
+		line-height:2;
+	}
+	img{
+		
+		border:solid 5px #6cf;
+	}
+	#renk{
+		color:#036;
+	}
+	
+	#footer{
+		border-top:2px solid #666;
+		text-align:center;
+		
+	}
+	a:hover
+	{
+		text-decoration:underline;
+	}
+#menu{
+	width:640px;
+	height:32px;
+    background-color:#3cc;
+	
+}
+#menu ol{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	
+}
+#menu a{
+	text-decoration:none;
+	color:white;
+	line-height:2;
+	padding:5px 46px 5px 46px;
+	
+	
+}
+#menu ol li{
+	display:inline;
+	
+	
+	
+}
+#menu a:hover{
+	background-color:#676767;
+	color:white;
+	
+	
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

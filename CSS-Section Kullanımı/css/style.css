@@ -1,0 +1,126 @@
+.ust{
+	background-image:url(../ımages/bg.jpg);
+	height:500px;
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size:cover;
+	
+}
+.yazı{
+	font-family: 'Sniglet', cursive;
+	font-size:22px;
+	
+}
+.navbar-brand{
+	color:white!important;
+	
+}
+.nav-link{
+	margin-top:5px;
+	
+}
+.card
+{
+	margin-left:-40px;
+	margin-top:500px;
+	
+}
+.bilgi2{
+	margin-top:-956px;
+	margin-left:300px;
+	
+	
+}
+.card-body{
+	border:1px solid green;
+	
+}
+.bilgi3{
+	margin-top:-956px;
+	margin-left:600px;
+	
+}
+.bilgi4{
+	margin-left:900px;
+	margin-top:-956px;
+	
+}
+.blgy{
+    font-family: 'Fira Sans Condensed', sans-serif;
+	
+	
+	
+}
+.nav-link:hover{
+	color:white!important;
+	
+	
+}
+#bilgi1{
+	opacity:0.5;
+	
+}
+#bilgi1:hover{
+	opacity:1;
+	
+}
+#bilgi2{
+	opacity:0.5;
+	
+}
+#bilgi2:hover{
+	opacity:1;
+	
+}
+#bilgi3{
+	opacity:0.5;
+	
+}
+#bilgi3:hover{
+	opacity:1;
+	
+}
+#bilgi4{
+	opacity:0.5;
+	
+}
+#bilgi4:hover{
+	opacity:1;
+	
+}
+.alt{
+	background-color:#EEEEEE;
+	height:400px;
+	margin-left:-39px;
+	width:593px;
+	opacity:0.9;
+	
+	
+}
+.footer{
+	
+	width:450px;
+	
+}
+.blg{
+	background-color:#EEEEEE;
+	height:400px;
+	width:596px;
+	margin-left:590px;
+	margin-top:-250px;
+	
+	
+	
+}
+
+
+.bılgı{
+	
+	
+	
+}
+.form-row{
+	
+	
+	
+}

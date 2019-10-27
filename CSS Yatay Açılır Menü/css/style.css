@@ -1,0 +1,45 @@
+#menu{
+	width:800px;
+	height:auto;
+	margin:0 auto;
+}
+#menu ol{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	position:relative;
+	
+}
+#menu li a{
+	text-decoration:none;
+	background-color:#4DA6FF;
+	color:white;
+	display:block;
+	text-align:center;
+	line-height:40px;
+	
+	
+}
+#menu li{
+	display:inline;
+	float:left;
+	width:160px;
+	
+	
+}
+#menu li ol{
+	display:none;
+	
+}	
+#menu  li:hover ol{
+	display:block;
+	background-color:black;
+	color:#4DA6FF;
+	
+	
+}
+#menu a:hover{
+    display:block;
+	background-color:white;
+	color:#4DA6FF;
+}	
