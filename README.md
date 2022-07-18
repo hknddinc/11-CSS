@@ -3,7 +3,7 @@ Bu repo lise de web tasarım dersin de frontend tarafın da css öğrendim zaman
 
 ## CSS Repository Information
 
->klasörlerin için de projelerde kullanılan resim klasörleri gizlidir. Resmi kurum içerikleri bulunduğu içindir.
+>Klasörlerin için de projelerde kullanılan resim klasörleri gizlidir. Resmi kurum içerikleri bulunduğu içindir.
 
 ## CSS Command
 
