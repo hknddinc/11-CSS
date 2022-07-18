@@ -7,8 +7,6 @@ Bu repo lise de web tasarım dersin de frontend tarafın da css öğrendim zaman
 
 ## CSS Command
 
----
-
 ```CSS
 body{
     background-color: green;
