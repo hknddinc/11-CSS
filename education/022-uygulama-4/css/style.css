@@ -1,0 +1,57 @@
+body{
+	background-image: url(../ımages/bg.gif);
+
+	
+}
+#container{
+	width:900px;
+	height:600px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#banner{
+	
+	background-image: url(../ımages/yeni_giris_banner.jpg);
+	width:890px;
+	height:200px;
+	border:solid 5px #D7B56D;
+
+	
+}
+#menu{
+	width:210px;
+	height:320px;
+}
+#content{
+	
+	background-image: url(../ımages/10.jpg);
+	height:320px;
+	width:480px;
+	display:inline;
+	float:left;
+	border: solid 5px #D7B56D;
+}
+#artivise{
+
+	width:180px;
+	height:320px;
+	border: solid 5px #D7B56D;
+	display:inline;
+	float:right;
+	background-color:#F0E4A5;
+	text-align:center;
+	font-weight:bold;
+	
+}
+}
+#footer{
+	background-color:#F0E4A5;
+	width:890px;
+	height:50px;
+	clear:both;
+	border: solid 5px #D7B56D;
+	text-align:center;
+	font-weight:bold;
+}
+
+

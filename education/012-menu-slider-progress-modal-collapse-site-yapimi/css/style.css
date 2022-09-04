@@ -1,0 +1,54 @@
+.navbar-light{
+	background-color:Black!important;
+	
+	
+	
+}
+.nav-link{
+	color:White!important;
+	
+	
+}
+.nav-link:hover{
+	background-color:White!important;
+	
+	
+}
+.nav-link:hover{
+	color:Black!important;
+	border-radius:5px;
+	
+	
+}
+.progress-bar{
+	
+	background-color:Black!important;
+	
+}
+.btn-primary{
+	background-color:Black!important;
+	border:Solid Black 1px;
+	
+}
+.btn-primary:hover{
+	
+	background-color:White!important;
+	
+	
+}
+.btn-primary:hover{
+	color:Black!important;
+	border:Solid Black 1px;
+	
+}
+.btn-link{
+	text-decoration:none !important;
+	color:Black;
+	
+	
+}
+.navbar-toggler{
+	background-color:White!important;
+	
+	
+}

@@ -1,0 +1,45 @@
+.nav-link{
+	color:Black!important;
+	
+	
+}
+.nav-link:hover{
+	color:#4CFB78!important;
+	
+	
+}
+.menu-fluid{
+	background-color:#4CFB78!important;
+	height:110px;
+	
+}
+.beyaz{
+	color:White!important;
+	font-weight:Bold;
+	font-size:50px;
+	padding-top:10px;
+	margin-left:85px;
+	
+	
+	
+}
+.yan{
+	color:White!important;
+	font-weight:Bold;
+	margin-left:1050px;
+	margin-top:-45px;
+}
+.navbar-light{
+	background-color:light!important;
+	
+	
+}
+.card{
+	border:none!important;
+	
+	
+}
+
+
+
+
