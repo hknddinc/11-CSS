@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial',sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(15, 52, 96);
+}
+/* form */
+#form{
+    padding: 20px;
+    width: 350px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    flex-direction: column;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+/* title */
+#title{
+    text-align: center;
+    margin: 20px 0;
+}
+#title h1{
+    color: rgb(15, 52, 96);
+}
+/* content */
+#content{
+    flex-direction: column;
+}
+#content label,input{
+    margin: 10px 0;
+    font-size: 24px;
+    width: 100%;
+    outline: none;
+}
+#content input{
+    border: 1px solid #ccc;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 1px;
+    border-radius: 15px;
+    padding: 5px 5px;
+}
+/* button */
+#button{
+    margin: 20px 0;
+}
+#button button{
+    padding: 5px 0;
+    width: 100%;
+    font-size: 24px;
+    background-color: rgb(118, 186, 153);
+    outline: none;
+    border: 1px solid #ccc;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 1px;
+    color: rgb(44, 44, 44);
+    border-radius: 15px;
+}
+#button button:active{
+    background-color: rgb(89, 206, 143);
+}
